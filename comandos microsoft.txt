@@ -1,0 +1,9 @@
+ALGUNOS COMANDOS
+
+Descarga de los archivos de instalación de Office LTSC 2021
+
+-- setup /download configuration.xml
+
+Instalación de Office LTSC 2021 mediante la herramienta de implementación de Office
+
+-- setup /configure configuration.xml
